@@ -1,0 +1,14 @@
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\bin\Debug\net7.0\MeetTeamTest.exe
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\bin\Debug\net7.0\MeetTeamTest.deps.json
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\bin\Debug\net7.0\MeetTeamTest.runtimeconfig.json
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\bin\Debug\net7.0\MeetTeamTest.dll
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\bin\Debug\net7.0\MeetTeamTest.pdb
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.AssemblyInfo.cs
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.dll
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\refint\MeetTeamTest.dll
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.pdb
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\MeetTeamTest.genruntimeconfig.cache
+C:\Users\Thinkpad\Documents\Wilmar\Trabajo\Meeteam - MBC\New Project - Prueba\MeetTeamTest\MeetTeamTest\obj\Debug\net7.0\ref\MeetTeamTest.dll
